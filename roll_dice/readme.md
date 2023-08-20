@@ -22,7 +22,7 @@ Przed rozpoczęciem pracy nad projektem, upewnij się, że masz zainstalowane:
 
 ```bash
 git clone https://github.com/twoj-uzytkownik/nazwa-repozytorium.git
-
+"`"
 2. Przejdź do katalogu projektu:
 cd nazwa-repozytorium
 
