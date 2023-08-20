@@ -1,6 +1,6 @@
 # Flutter favorite places app
 
-An app to add your favorite places. It is possible to add a title, a photo and select the location yourself via the map or automatically by downloading current data from the device's GPS.
+An app to add your favorite places. It is possible to add a title, a photo and select the location yourself via the map or automatically by downloading current data from the device's GPS. The data is saved on the device.
 
 ## Contents
 
