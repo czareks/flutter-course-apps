@@ -1,4 +1,4 @@
-# Nazwa Twojego Projektu
+# Flutter roll dice app
 
 Krótki opis projektu.
 
@@ -22,18 +22,20 @@ Przed rozpoczęciem pracy nad projektem, upewnij się, że masz zainstalowane:
 
 ```bash
 git clone https://github.com/twoj-uzytkownik/nazwa-repozytorium.git
-"`"
+```
 2. Przejdź do katalogu projektu:
+```bash
 cd nazwa-repozytorium
-
+```
 3. Zainstaluj zależności:
+```bash
 flutter pub get
-
+```
 ## Uruchamianie
 1. Uruchom projekt za pomocą komendy:
-
+```bash
 flutter run
-
+```
 To spowoduje uruchomienie aplikacji na domyślnym emulatorze lub podłączonym urządzeniu.
 
 ## Zdjęcia aplikacji
