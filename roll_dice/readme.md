@@ -1,47 +1,47 @@
 # Flutter roll dice app
 
-Krótki opis projektu.
+A simple dice roll app
 
-## Spis Treści
+## Contents
 
-- [Wymagania](#wymagania)
-- [Instalacja](#instalacja)
-- [Uruchamianie](#uruchamianie)
-- [Przykładowe Zdjęcia](#przykładowe-zdjęcia)
-- [Autor](#autor)
+- [Requirements](#requirements)
+- [Install](#install)
+- [Starting](#booting)
+- [Sample Photos](#sample-photos)
+- [Author](#author)
 
-## Wymagania
+## Requirements
 
-Przed rozpoczęciem pracy nad projektem, upewnij się, że masz zainstalowane:
+Before you start working on your project, make sure you have installed:
 
 - [Flutter](https://flutter.dev/docs/get-started/install)
 
-## Instalacja
+## Installation
 
-1. Sklonuj repozytorium:
+1. Clone the repository:
 
 ```bash
-git clone https://github.com/twoj-uzytkownik/nazwa-repozytorium.git
+git clone https://github.com/czareks/flutter-course-apps/edit/main/roll_dice/
 ```
-2. Przejdź do katalogu projektu:
+2. Go to the project directory:
 ```bash
-cd nazwa-repozytorium
+cd roll_dice
 ```
-3. Zainstaluj zależności:
+3. Install dependencies:
 ```bash
 flutter pub get
 ```
-## Uruchamianie
-1. Uruchom projekt za pomocą komendy:
+## Startup
+1. Run the project with the command:
 ```bash
 flutter run
 ```
-To spowoduje uruchomienie aplikacji na domyślnym emulatorze lub podłączonym urządzeniu.
+This will launch the app on the default emulator or connected device.
 
-## Zdjęcia aplikacji
+## Photos of the application
 ![Roll dice app](1.png)
 
 
-## AUtor
+## Author
 Cezary Śliwiński
-- GitHub: czareks
+- GitHub: Czareks
